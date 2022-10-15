@@ -2,7 +2,8 @@
 
 ### Hi there, I'm Tywin 👋
 
-<img align="right" src="https://ikunGiao-stats-github.vercel.app/api?username=ikunGiao&count_private=true&show_icons=true&theme=cobalt" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ikunGiao&show_icons=true&theme=cobalt" />
+
 
 一直努力成长中🧑‍💻
 
