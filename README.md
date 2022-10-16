@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Tywin 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ikunGiao&show_icons=true&theme=cobalt" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TimsSun&show_icons=true&theme=cobalt" />
 
 
 一直努力成长中🧑‍💻
@@ -26,7 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-| <a href="https://github.com/ikunGiao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ikunGiao&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ikunGiao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikunGiao&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ikunGiao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TimsSun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TimsSun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimsSun&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
