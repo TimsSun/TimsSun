@@ -15,24 +15,7 @@ limitations under the License.
 
 <div align = "center">
 
-<p align="center">
-    <a href="https://www.xynox.codes/">
-        <img src="./assets/banner.svg" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://www.xynox.codes/">
-        <img src="./assets/icons/header/website.svg" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/XynoxTheDev/">
-        <img src="./assets/icons/header/github.svg" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/Arindamz03/">
-        <img src="./assets/icons/header/twitter.svg" width="25px" />
-    </a>
-</p>
+
 
 
 
